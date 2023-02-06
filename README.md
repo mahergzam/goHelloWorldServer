@@ -1,4 +1,4 @@
-# HelloWorldGoServer Maher through test
+# HelloWorldGoServer Maher
 GO + Docker + unit tests
 
 
